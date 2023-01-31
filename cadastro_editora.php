@@ -14,7 +14,7 @@ if(isset($_POST['submit'])){
 <html lang="pt-BR">
 <head>
 <meta charset="UTF-8">
-<title>Index</title>
+<title>Editora - (Cadastro)</title>
 </head>
 
 <body>
